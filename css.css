@@ -1,10 +1,14 @@
 body{
     background-color: rgb(255, 0, 85);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 150px auto;
+    width: 600px;
+
 }
 h1{
     background-color: rgb(76, 175, 167);
-    
-    
+    text-align: center;
+    width:100%;
 }
 section{
     background-color: rgb(156, 196, 64);
@@ -12,12 +16,8 @@ section{
 section2.li.class1{
     background-color: rgb(232, 248, 9);
 }
-td1{
+td{
     background-color: rgb(51, 223, 79);
-}
-td2{
-    background-color: rgb(51, 223, 223);
-}
-td3{
-    background-color: aliceblue;
+border:solid 1px black;
+padding: 0;
 }
