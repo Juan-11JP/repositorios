@@ -3,5 +3,18 @@ body{
 }
 h1{
     background-color: rgb(76, 175, 167);
-    position: absolute;
+    
+    
+}
+section{
+    background-color: rgb(156, 196, 64);
+}
+section2.li.class1{
+    background-color: rgb(232, 248, 9);
+}
+td1{
+    background-color: rgb(51, 223, 79);
+}
+td2{
+    background-color: rgb(51, 223, 223);
 }
