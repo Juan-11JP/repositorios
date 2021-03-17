@@ -2,5 +2,6 @@ body{
     background-color: rgb(255, 0, 85);
 }
 h1{
-    background-color: aqua;
+    background-color: rgb(76, 175, 167);
+    position: absolute;
 }
